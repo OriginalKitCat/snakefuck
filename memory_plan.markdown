@@ -12,7 +12,7 @@
 [0] 17 directionright (1 = true)
 [0] 18 directiondown (1 = true)
 [0] 19 directionup (1 = true)
-[0] 20 - 120 snake field 10x10 - with count down for body parts
+[0] 20 - 220 snake field 10x10 - with count down for body parts
 [0]
 [0]
 [0]
